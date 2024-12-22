@@ -1,0 +1,102 @@
+/* Global Styles */
+
+        :root {
+            --button-bg: #4b0082; /* Dark Purple */
+            --button-hover: #9370db; /* Light Purple */
+            --button-click: #808080; /* Medium Gray */
+        }
+
+        body {
+            font-family: 'Fredericka the Great', cursive;
+            font-size: 1.5rem;
+            letter-spacing: 2px;
+            background: url('https://img.freepik.com/free-photo/paper-texture_1194-5999.jpg?t=st=1734206296~exp=1734209896~hmac=41bf3f9ac1d17c0fd93f53f6324718889588fd62f31ec295c470e8ba880a2f6c&w=1800') no-repeat center center fixed;
+            background-size: cover;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .container {
+            max-width: 400px;
+            width: 90%;
+            text-align: center;
+            align-items: center;
+            padding: 20px;
+            margin-top: 50px;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            margin: 0 0 10px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            margin: 10px 0;
+            margin-bottom: 30px;
+        }
+
+        .button {
+            display: block;
+            padding: 10px;
+            margin: 0px 0;
+			font-family: 'Fredericka the Great', cursive;
+            font-size: 1.2rem;
+            color: white;
+            background-color: var(--button-bg);
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;        
+                        margin: 10px auto;
+            width: fit-content;
+            margin-bottom: 20px;
+        }
+
+        .button:hover {
+            background-color: var(--button-hover);
+        }
+
+        .button:active {
+            background-color: var(--button-click);
+        }
+
+       .button-group {
+            display: flex;
+        	justify-content: center;
+            gap: 10px;
+        }
+
+
+        .prompt-box {
+            display: on;
+   			padding: 40px;
+    		border-radius: 15px;
+			background-color: #e0e0e0; /* Light prompt background */
+			width: 80%;
+			text-align: center;
+			font-size: 1.2rem;
+			min-height: 50px; /* Ensure there's a base size for the prompt */
+		    align-items: center; /* Vertically center the content */
+		    margin-bottom: 10px;
+		    overflow-wrap: break-word;
+        }        
+
+        footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #555;
+        }
+
+        footer a {
+            color: #4b0082;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
