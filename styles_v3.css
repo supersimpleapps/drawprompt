@@ -58,6 +58,7 @@
                         margin: 10px auto;
             width: fit-content;
             margin-bottom: 20px;
+		letter-spacing: 2px; /* Added letter spacing for the buttons */
         }
 
         .button:hover {
@@ -82,7 +83,7 @@
 			background-color: #ffffff; /* Light prompt background */
 			width: 80%;
 			text-align: center;
-			font-family: 'Fredericka the Great', cursive; /* Fun font in the prompt box */
+			/* font-family: 'Fredericka the Great', cursive; */
 			color: #000000;
 			font-size: 1.2rem;
 			min-height: 50px; /* Ensure there's a base size for the prompt */
