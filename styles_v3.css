@@ -8,7 +8,7 @@
 
         body {
             /* font-family: 'Fredericka the Great', cursive; */
-		font-family: Arial, sans-serif;
+		font-family: Montserrat, sans-serif;
             font-size: 1.5rem;
             letter-spacing: 2px;
             background: url('https://img.freepik.com/free-photo/paper-texture_1194-5999.jpg?t=st=1734206296~exp=1734209896~hmac=41bf3f9ac1d17c0fd93f53f6324718889588fd62f31ec295c470e8ba880a2f6c&w=1800') no-repeat center center fixed;
@@ -32,7 +32,7 @@
 
         h1 {
             font-family: 'Fredericka the Great', cursive;
-		font-size: 2.2rem;
+		font-size: 2.4rem;
             margin: 0 0 10px;
             margin-bottom: 20px;
         }
@@ -47,7 +47,7 @@
             padding: 10px;
             margin: 0px 0;
 		/* font-family: 'Fredericka the Great', cursive; */
-		font-family: Arial, sans-serif;
+		font-family: Montserrat, sans-serif;
             font-size: 1.2rem;
             color: white;
             background-color: var(--button-bg);
@@ -82,6 +82,7 @@
 			background-color: #e0e0e0; /* Light prompt background */
 			width: 80%;
 			text-align: center;
+			font-family: 'Fredericka the Great', cursive; /* Fun font in the prompt box */
 			font-size: 1.2rem;
 			min-height: 50px; /* Ensure there's a base size for the prompt */
 		    align-items: center; /* Vertically center the content */
