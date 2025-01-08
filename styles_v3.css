@@ -81,19 +81,34 @@
 }
 
         .prompt-box {
-            display: on;
+/*            display: on;
    			padding: 40px;
     		border-radius: 15px;
 			background-color: #e0e0e0; /* Light prompt background */
-			width: 80%;
+/*			width: 80%;
 			text-align: center;
 			/* font-family: 'Fredericka the Great', cursive; */
-			color: #000000;
+/*			color: #000000;
 			font-size: 1.2rem;
 			min-height: 50px; /* Ensure there's a base size for the prompt */
-		    align-items: center; /* Vertically center the content */
-		    margin-bottom: 10px;
-		    overflow-wrap: break-word;
+/*		    align-items: center; /* Vertically center the content */
+/*		    margin-bottom: 10px;
+		    overflow-wrap: break-word; */
+
+
+    display: flex; /* Change to flex for alignment */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    padding: 40px;
+    border-radius: 15px;
+    background-color: #ffffff; /* Increased contrast with white background */
+    color: #000000; /* Black text for maximum contrast */
+    width: 80%;
+    text-align: center;
+    font-size: 1.2rem;
+    min-height: 50px; /* Ensure there's a base size for the prompt */
+    margin-bottom: 10px;
+    overflow-wrap: break-word;
         }        
 
         footer {
