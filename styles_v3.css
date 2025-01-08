@@ -79,10 +79,11 @@
             display: on;
    			padding: 40px;
     		border-radius: 15px;
-			background-color: #e0e0e0; /* Light prompt background */
+			background-color: #ffffff; /* Light prompt background */
 			width: 80%;
 			text-align: center;
 			font-family: 'Fredericka the Great', cursive; /* Fun font in the prompt box */
+			color: #000000;
 			font-size: 1.2rem;
 			min-height: 50px; /* Ensure there's a base size for the prompt */
 		    align-items: center; /* Vertically center the content */
