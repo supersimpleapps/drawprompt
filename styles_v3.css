@@ -18,7 +18,7 @@
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            color: #333;
+            color: #030303;
         }
 
         .container {
@@ -32,7 +32,8 @@
 
         h1 {
             font-family: 'Fredericka the Great', cursive;
-		font-size: 2.4rem;
+		font-size: 2.2rem;
+		color: #000000;
             margin: 0 0 10px;
             margin-bottom: 20px;
         }
@@ -80,7 +81,7 @@
             display: on;
    			padding: 40px;
     		border-radius: 15px;
-			background-color: #ffffff; /* Light prompt background */
+			background-color: #e0e0e0; /* Light prompt background */
 			width: 80%;
 			text-align: center;
 			/* font-family: 'Fredericka the Great', cursive; */
