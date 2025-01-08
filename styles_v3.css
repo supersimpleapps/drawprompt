@@ -76,6 +76,9 @@
             gap: 10px;
         }
 
+.button-group button {
+    width: 50px; /* Increased width for arrow buttons */
+}
 
         .prompt-box {
             display: on;
