@@ -1,9 +1,12 @@
 /* Global Styles */
 
         :root {
-            --button-bg: #4b0082; /* Dark Purple */
-            --button-hover: #9370db; /* Light Purple */
+            --button-bg: #000000; /* Black */
+            --button-hover: #aaaaaa; /* Light Gray */
             --button-click: #808080; /* Medium Gray */
+/*		--button-bg: #4b0082; /* Dark Purple */
+/*            --button-hover: #9370db; /* Light Purple */
+/*            --button-click: #808080; /* Medium Gray */
         }
 
         body {
