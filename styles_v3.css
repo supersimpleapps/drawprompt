@@ -46,7 +46,8 @@
             display: block;
             padding: 10px;
             margin: 0px 0;
-			font-family: 'Fredericka the Great', cursive;
+		/* font-family: 'Fredericka the Great', cursive; */
+		font-family: Arial, sans-serif;
             font-size: 1.2rem;
             color: white;
             background-color: var(--button-bg);
