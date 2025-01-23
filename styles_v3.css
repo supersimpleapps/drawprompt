@@ -16,7 +16,11 @@
 		/* background-position: center center; */
             /* margin: 0;
             display: flex; */
-            justify-content: center;
+	}
+
+.content-container {
+            display: flex;
+	justify-content: center;
             align-items: center;
             min-height: 100vh;
             color: #030303; */
