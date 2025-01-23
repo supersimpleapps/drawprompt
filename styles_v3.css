@@ -7,32 +7,31 @@
         }
 
         body {
-            /* font-family: 'Fredericka the Great', cursive; 
-		font-family: Verdana, sans-serif;
+            font-family: 'Fredericka the Great', cursive; 
             font-size: 1.5rem;
-            letter-spacing: 2px; */
-            background: url('https://img.freepik.com/free-photo/paper-texture_1194-5999.jpg?t=st=1734206296~exp=1734209896~hmac=41bf3f9ac1d17c0fd93f53f6324718889588fd62f31ec295c470e8ba880a2f6c&w=1800') no-repeat center center fixed;;
-		/* background-attachment: fixed; Make background static */
-		/* background-position: center center; */
-            /* margin: 0; */
-            display: flex; 
+            letter-spacing: 2px;
+            background: url('https://img.freepik.com/free-photo/paper-texture_1194-5999.jpg?t=st=1734206296~exp=1734209896~hmac=41bf3f9ac1d17c0fd93f53f6324718889588fd62f31ec295c470e8ba880a2f6c&w=1800') no-repeat center center fixed;
+		background-size: cover;
+            margin: 0;
+		min-height: 100vh;
 	}
 
-.content-container {
+	.wrapper {
             display: flex;
 	justify-content: center;
             align-items: center;
             min-height: 100vh;
-            color: #030303; */
+            /* color: #030303; */
         }
 
         .container {
             max-width: 400px;
             width: 90%;
             text-align: center;
-            align-items: center;
+            /* align-items: center; */
             padding: 20px;
-            margin-top: 50px;
+		margin: 0 auto;
+            /* margin-top: 50px; */
         }
 
         h1 {
