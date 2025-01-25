@@ -11,6 +11,8 @@
             font-size: 1.5rem;
             letter-spacing: 2px;
 		min-height: 100vh;
+		font-family: 'Fredericka the Great', cursive;
+		background-color: white;
 	}
 
 	.container {
