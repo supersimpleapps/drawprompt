@@ -2,8 +2,8 @@
 
         :root {
 		--button-bg: #3a0071; /* Dark Purple */
-            --button-hover: #9370db; /* Light Purple */
-            --button-click: #808080; /* Medium Gray */
+            --button-hover: #000547; /* Light Purple #b970b9  */
+            --button-click: #9370db; /* Medium Gray */
         }
 
         body {
