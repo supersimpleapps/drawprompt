@@ -19,6 +19,7 @@
             display: flex;
             align-items: center;
             min-height: 100vh;
+	font-family: 'Fredericka the Great', cursive;
         }
 
 	.border {
