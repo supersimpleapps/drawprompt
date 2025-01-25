@@ -73,7 +73,8 @@
         }
 
 	.button-prompt {        
-                        margin: 10px auto;
+                display: flex;       
+		margin: 10px auto;
 	}
 
 
