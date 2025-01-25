@@ -18,7 +18,7 @@
   		align-items: center;
   		height: 100vh; /* Full height of viewport */
   		            background-color: #F5F5DC; /* Light beige background color */
-            background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200' viewBox='0 0 200 200'><path d='M100 0 L100 200' stroke='#E0E0D1' stroke-width='2' /></svg>");
+            background-image: url("background_desktop_image.jpeg");
             background-size: 100px 100px; /* Adjust size as needed */
             background-position: center;
             background-repeat: repeat;
