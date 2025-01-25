@@ -32,7 +32,7 @@
 	}
 
 	.background-width {
-		width: 450px;
+		width: 600px;
 		align-items: center;
 		background: url('https://img.freepik.com/free-photo/paper-texture_1194-5999.jpg?t=st=1734206296~exp=1734209896~hmac=41bf3f9ac1d17c0fd93f53f6324718889588fd62f31ec295c470e8ba880a2f6c&w=1800') no-repeat center center fixed;
 	}
@@ -93,7 +93,7 @@
        .button-group {
             display: flex;
         	justify-content: center;
-            gap: 20px;
+            gap: 25px;
         }
 
 .button-group button {
@@ -111,17 +111,17 @@
 	    border-radius: 15px;
 	    background-color: #e0e0e0; /* Increased contrast with white background */
 	    color: #000000; /* Black text for maximum contrast */
-	    width: 80%;
+	    width: 75%;
 	    text-align: center;
 	    font-size: 1.2rem;
 	    min-height: 50px; /* Ensure there's a base size for the prompt */
-	    margin-bottom: 40px;
+	    margin-bottom: 30px;
 	    overflow-wrap: break-word;
 	font-family: 'Fredericka the Great', cursive;
         }        
 
         footer {
-            margin-top: 40px;
+            margin-top: 20px;
             font-size: 14px;
             color: #555;
         }
