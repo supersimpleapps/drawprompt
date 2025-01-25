@@ -10,15 +10,21 @@
         body {
             font-size: 1.5rem;
             letter-spacing: 2px;
-		min-height: 100vh;
 		font-family: 'Fredericka the Great', cursive;
-		background-color: white;
+		margin: 0;
+  		padding: 0;
+  		display: flex;
+  		justify-content: center;
+  		align-items: center;
+  		height: 100vh; /* Full height of viewport */
+  		background-color: white; /* Fallback for the borders */
 	}
 
 	.container {
             display: flex;
             align-items: center;
-            min-height: 100vh;
+  		width: 100%; /* Full width */
+  		height: 100%; /* Full height */
         }
 
 	.border {
