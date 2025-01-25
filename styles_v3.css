@@ -75,6 +75,7 @@
 	.button-prompt {        
                 display: flex;       
 		margin: 10px auto;
+		justify-content: center;
 	}
 
 
