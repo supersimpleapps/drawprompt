@@ -14,7 +14,7 @@
 		min-height: 100vh;
 	}
 
-	.wrapper {
+	.container {
             display: flex;
             align-items: center;
             min-height: 100vh;
@@ -25,7 +25,7 @@
 		background-color: white; /* Border color */
 	}
 
-        .container {
+        .content {
             max-width: 350px;
             width: 90%;
             text-align: center;
