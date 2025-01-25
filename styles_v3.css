@@ -80,7 +80,10 @@
         }
 
 .button-group button {
-    width: 50px; /* Increased width for arrow buttons */
+     font-size: 2rem; /* Adjust the size as needed */
+	width: auto; /* Ensure the button resizes to fit the larger font */
+    height: auto;
+    padding: 10px; /* Optional: Adjust padding for better clickability */
 }
 
         .prompt-box {
