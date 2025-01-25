@@ -82,14 +82,14 @@
        .button-group {
             display: flex;
         	justify-content: center;
-            gap: 10px;
+            gap: 20px;
         }
 
 .button-group button {
      font-size: 2rem; /* Adjust the size as needed */
-	width: 55px; /* Ensure the button resizes to fit the larger font */
+	width: 60px; /* Ensure the button resizes to fit the larger font */
     height: auto;
-    padding: 20px; /* Optional: Adjust padding for better clickability */
+    padding: 10px; /* Optional: Adjust padding for better clickability */
 }
 
         .prompt-box {
