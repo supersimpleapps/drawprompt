@@ -67,6 +67,7 @@
             width: fit-content;
             margin-bottom: 40px;
 		letter-spacing: 3px; /* Added letter spacing for the buttons */
+		font-family: 'Fredericka the Great', cursive;
         }
 
         .button:hover {
