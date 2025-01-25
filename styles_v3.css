@@ -10,7 +10,6 @@
         body {
             font-size: 1.5rem;
             letter-spacing: 2px;
-            background: url('https://img.freepik.com/free-photo/paper-texture_1194-5999.jpg?t=st=1734206296~exp=1734209896~hmac=41bf3f9ac1d17c0fd93f53f6324718889588fd62f31ec295c470e8ba880a2f6c&w=1800') no-repeat center center fixed;
 		min-height: 100vh;
 	}
 
@@ -32,6 +31,7 @@
             padding: 20px;
 		margin: 0 auto;
             margin-top: 50px;
+		background: url('https://img.freepik.com/free-photo/paper-texture_1194-5999.jpg?t=st=1734206296~exp=1734209896~hmac=41bf3f9ac1d17c0fd93f53f6324718889588fd62f31ec295c470e8ba880a2f6c&w=1800') no-repeat center center fixed;
         }
 
         h1 {
