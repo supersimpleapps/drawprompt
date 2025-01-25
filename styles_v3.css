@@ -19,7 +19,7 @@
   		height: 100vh; /* Full height of viewport */
   		            background-color: #F5F5DC; /* Light beige background color */
             background-image: url("background_desktop_image.jpeg");
-            background-size: 100px 100px; /* Adjust size as needed */
+           /* background-size: 100px 100px; /* Adjust size as needed */
             background-position: center;
             background-repeat: repeat;
 	}
