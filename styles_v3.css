@@ -115,7 +115,6 @@
 	    border-radius: 15px;
 	    background-color: #e0e0e0; /* Increased contrast with white background */
 	    color: #000000; /* Black text for maximum contrast */
-	    width: 70%;
 	    text-align: center;
 	    font-size: 1.2rem;
 	    min-height: 50px; /* Ensure there's a base size for the prompt */
