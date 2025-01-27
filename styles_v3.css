@@ -5,6 +5,7 @@
         	--button-hover: #000547; /* Light Purple #b970b9  */
         	--button-click: #9370db; /* Medium Gray */
 		font-family: 'Fredericka the Great', cursive;
+		background-color: black;
         }
 
         body {
