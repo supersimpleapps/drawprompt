@@ -17,9 +17,8 @@
   		display: flex;
   		justify-content: center;
   		align-items: center;
-  		height: 100vh; /* Full height of viewport */
-            background-image: url("background_desktop_image.jpeg");
-           /* background-size: 100px 100px; /* Adjust size as needed */
+  		height: 100%;
+            background: url('https://img.freepik.com/free-photo/paper-texture_1194-5999.jpg?t=st=1734206296~exp=1734209896~hmac=41bf3f9ac1d17c0fd93f53f6324718889588fd62f31ec295c470e8ba880a2f6c&w=1800') no-repeat center center fixed;
             background-position: center;
             background-repeat: repeat;
 	}
@@ -32,13 +31,13 @@
         }
 
 	.border {
+		background-image: url("background_desktop_image.jpeg");
 		flex-grow: 1; /* Automatically take available space */
 	}
 
 	.background-width {
 		width: 600px;
 		align-items: center;
-		background: url('https://img.freepik.com/free-photo/paper-texture_1194-5999.jpg?t=st=1734206296~exp=1734209896~hmac=41bf3f9ac1d17c0fd93f53f6324718889588fd62f31ec295c470e8ba880a2f6c&w=1800') no-repeat center center fixed;
 		height: 100%; /* Full height */
 	}
 
