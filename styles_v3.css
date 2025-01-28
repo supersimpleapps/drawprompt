@@ -4,8 +4,7 @@
 		--button-bg: #3a0071; /* Dark Purple */
         	--button-hover: #000547; /* Light Purple #b970b9  */
         	--button-click: #9370db; /* Medium Gray */
-		font-family: "Comic Sans MS", "Comic Sans", cursive;
-		/* font-family: 'Fredericka the Great', cursive; */
+		font-family: 'Fredericka the Great', cursive;
 		background-color: black;
         }
 
@@ -58,7 +57,8 @@
         }
 
         p {
-            margin: 10px 0;
+            font-family: "Comic Sans MS", "Comic Sans", cursive;
+		margin: 10px 0;
             margin-bottom: 40px;
         }
 
@@ -124,7 +124,8 @@
         }        
 
         footer {
-            font-size: 14px;
+            font-family: "Comic Sans MS", "Comic Sans", cursive;
+		font-size: 14px;
             color: #555;
         }
 
