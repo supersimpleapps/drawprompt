@@ -120,7 +120,7 @@
 	    min-height: 50px; /* Ensure there's a base size for the prompt */
 	    margin-bottom: 20px;
 	    overflow-wrap: break-word;
-	font-family: 'Fredericka the Great', cursive;
+		font-family: "Comic Sans MS", "Comic Sans", cursive;
         }        
 
         footer {
