@@ -57,7 +57,7 @@
         }
 
         p {
-            font-family: "Comic Sans MS", "Comic Sans", cursive;
+            font-family: 'Fuzzy Bubbles';
 		margin: 10px 0;
             margin-bottom: 40px;
         }
@@ -120,11 +120,11 @@
 	    min-height: 50px; /* Ensure there's a base size for the prompt */
 	    margin-bottom: 20px;
 	    overflow-wrap: break-word;
-		font-family: "Comic Sans MS", "Comic Sans", cursive;
+		font-family: 'Fuzzy Bubbles';
         }        
 
         footer {
-            font-family: "Comic Sans MS", "Comic Sans", cursive;
+            font-family: 'Fuzzy Bubbles';
 		font-size: 14px;
             color: #555;
         }
