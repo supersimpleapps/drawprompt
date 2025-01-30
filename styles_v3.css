@@ -46,20 +46,20 @@
             text-align: center;
             padding: 20px;
 		margin: 0 auto;
-            margin-top: 50px;
+            margin-top: 30px;
         }
 
         h1 {
 		font-size: 2.2rem;
 		color: #000000;
             margin: 0 0 10px;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
         }
 
         p {
             font-family: 'Fuzzy Bubbles';
 		margin: 10px 0;
-            margin-bottom: 40px;
+            margin-bottom: 30px;
         }
 
         .button {
@@ -74,7 +74,7 @@
             cursor: pointer;
             transition: background-color 0.3s;        
             width: fit-content;
-            margin-bottom: 40px;
+            margin-bottom: 30px;
 		letter-spacing: 3px; /* Added letter spacing for the buttons */
 		font-family: 'Fredericka the Great', cursive;
         }
