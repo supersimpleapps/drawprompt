@@ -5,7 +5,9 @@
         	--button-hover: #9370db; /* Light Purple */
         	--button-click: #000547; /* Dark Blue */
 		font-family: 'Fredericka the Great', cursive;
-		background-color: black;
+		background-image: url("background_desktop_image.jpeg");
+		background-position: center;
+            background-repeat: repeat;
         }
 
         body {
@@ -17,9 +19,9 @@
   		justify-content: center;
   		align-items: center;
   		height: 100%;
-            background-image: url("background_desktop_image.jpeg");
+            /* background-image: url("background_desktop_image.jpeg");
             background-position: center;
-            background-repeat: repeat;
+            background-repeat: repeat; */
 	}
 
 	.container {
