@@ -101,7 +101,7 @@
         }
 
 .button-group button {
-     font-size: 2rem; /* Adjust the size as needed */
+     font-size: 3rem; /* Adjust the size as needed */
 	width: 60px; /* Ensure the button resizes to fit the larger font */
     height: auto;
     padding: 10px; /* Optional: Adjust padding for better clickability */
